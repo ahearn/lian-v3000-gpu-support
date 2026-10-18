@@ -1,0 +1,9 @@
+# Lian Li's case model and anything derived from it (not ours to redistribute)
+lianli/
+*.stp
+*.7z
+*.FCStd
+*.FCBak
+
+# misc
+*.tmp
